@@ -1,0 +1,304 @@
+1,こんにちは,Konnichiwa,halo
+1,ありがとう,Arigatou,terima kasih
+1,はい,Hai,ya
+1,いいえ,Iie,tidak
+1,おはよう,Ohayou,selamat pagi
+1,こんばんは,Konbanwa,selamat malam
+1,さようなら,Sayounara,selamat tinggal
+1,すみません,Sumimasen,maaf
+1,ごめんなさい,Gomen nasai,maafkan saya
+1,お願いします,Onegaishimasu,tolong
+2,私は,Rakushi,aku
+2,あなた,Anata,kamu
+2,彼,Kare,dia (laki-laki)
+2,彼女,Kanojo,dia (perempuan)
+2,私たち,Watashitachi,kami
+2,友達,Tomodachi,teman
+2,家族,Kazoku,keluarga
+2,先生,Sensei,guru
+2,学生,Gakusei,mahasiswa
+2,学校,Gakkou,sekolah
+3,日本,Nihon,Jepang
+3,東京,Tokyo,Tokyo
+3,大阪,Osaka,Osaka
+3,京都,Kyoto,Kyoto
+3,水,Mizu,air
+3,火,Hi,api
+3,木,Ki,pohon
+3,山,Yama,gunung
+3,川,Kawa,sungai
+3,空,Sora,langit
+4,食べる,Taberu,makan
+4,飲む,Nomu,minum
+4,見る,Miru,melihat
+4,聞く,Kiku,mendengar
+4,話す,Hanasu,berbicara
+4,読む,Yomu,membaca
+4,書く,Kaku,menulis
+4,行く,Iku,pergi
+4,来る,Kuru,datang
+4,帰る,Kaeru,pulang
+5,好き,Suki,suka
+5,嫌い,Kirai,tidak suka
+5,大きい,Ookii,besar
+5,小さい,Chiisai,kecil
+5,長い,Nagai,panjang
+5,短い,Mijikai,pendek
+5,新しい,Atarashii,baru
+5,古い,Furui,lama
+5,高い,Takai,tinggi/mahal
+5,安い,Yasui,murah
+6,赤,Aka,merah
+6,青,Ao,biru
+6,緑,Midori,hijau
+6,黒,Kuro,hitam
+6,白,Shiro,putih
+6,黄色,Kiiro,kuning
+6,茶色,Chairo,coklat
+6,紫,Murasaki,ungu
+6,灰色,Haiiro,abu-abu
+6,金色,Kiniro,emas
+7,一,Ichi,satu
+7,二,Ni,dua
+7,三,San,tiga
+7,四,Shi,empat
+7,五,Go,lima
+7,六,Roku,enam
+7,七,Nana,tujuh
+7,八,Hachi,delapan
+7,九,Kyuu,sembilan
+7,十,Juu,sepuluh
+8,百,Hyaku,seratus
+8,千,Sen,seribu
+8,万,Man,sejuta
+8,円,En,yen
+8,時,Ji,waktu/jam
+8,分,Fun,menit
+8,秒,Byou,detik
+8,日,Hi,hari
+8,月,Tsuki,bulan
+8,年,Toshi,tahun
+9,春,Haru,musim semi
+9,夏,Natsu,musim panas
+9,秋,Aki,musim gugur
+9,冬,Fuyu,musim dingin
+9,天気,Tenki,cuaca
+9,雨,Ame,hujan
+9,雪,Yuki,salju
+9,風,Kaze,angin
+9,曇り,Kumori,berawan
+9,晴れ,Hare,cerah
+10,車,Kuruma,mobil
+10,電車,Densha,kereta
+10,バス,Basu,bus
+10,飛行機,Hikouki,pesawat
+10,船,Fune,kapal
+10,駅,Eki,stasiun
+10,道,Michi,jalan
+10,橋,Hashi,jembatan
+10,空港,Kūkō,bandara
+10,自転車,Jitensha,sepeda
+11,朝,Asa,pagi
+11,昼,Hiru,siang
+11,夜,Yoru,malam
+11,今,Ima,sekarang
+11,昨日,Kinou,kemarin
+11,今日,Kyou,hari ini
+11,明日,Ashita,besok
+11,毎日,Mainichi,setiap hari
+11,週,Shuu,minggu
+11,月,Gatsu,bulan (kalender)
+12,父,Chichi,ayah
+12,母,Haha,ibu
+12,兄,Aniki,kakak laki-laki
+12,姉,Ane,kakak perempuan
+12,弟,Otouto,adik laki-laki
+12,妹,Imouto,adik perempuan
+12,子供,Kodomo,anak
+12,夫,Otto,suami
+12,妻,Tsuma,istri
+12,親,Oya,orang tua
+13,犬,Inu,anjing
+13,猫,Neko,kucing
+13,鳥,Tori,burung
+13,魚,Sakana,ikan
+13,馬,Uma,kuda
+13,牛,Ushi,sapi
+13,豚,Buta,babi
+13,羊,Hitsuji,domba
+13,象,Zou,gajah
+13,虎,Tora,harimau
+14,病院,Byouin,rumah sakit
+14,医者,Isha,dokter
+14,薬,Kusuri,obat
+14,看護師,Kangoshi,perawat
+14,患者,Kanja,pasien
+14,健康,Kenkou,kesehatan
+14,熱,Netsu,demam
+14,咳,Seki,batuk
+14,頭,Atama,kepala
+14,体,Karada,tubuh
+15,食べ物,Tabemono,makanan
+15,飲み物,Nomimono,minuman
+15,ご飯,Gohan,nasi
+15,パン,Pan,roti
+15,肉,Niku,daging
+15,魚,Sakana,ikan
+15,野菜,Yasai,sayur
+15,果物,Kudamono,buah
+15,牛乳,Gyuunyuu,susu
+15,水,Mizu,air
+16,朝ご飯,Asagohan,sarapan
+16,昼ご飯,Hirugohan,makan siang
+16,夕ご飯,Yuugohan,makan malam
+16,お菓子,Okashi,camilan
+16,ケーキ,Keeki,kue
+16,アイス,Aisu,es krim
+16,コーヒー,Koohii,kopi
+16,お茶,Ocha,teh
+16,ジュース,Jyuusu,jus
+16,ビール,Biiru,bir
+17,家,Ie,rumah
+17,部屋,Heya,kamar
+17,台所,Daidokoro,dapur
+17,風呂,Furo,kamar mandi
+17,窓,Mado,jendela
+17,ドア,Doa,pintu
+17,椅子,Isu,kursi
+17,机,Tsukue,meja
+17,ベッド,Beddo,tempat tidur
+17,テレビ,Terebi,televisi
+18,本,Hon,buku
+18,新聞,Shinbun,koran
+18,雑誌,Zasshi,majalah
+18,紙,Kami,kertas
+18,鉛筆,Enpitsu,pensil
+18,ペン,Pen,pena
+18,ノート,Nooto,buku catatan
+18,消しゴム,Keshigomu,penghapus
+18,時計,Tokei,jam
+18,電話,Denwa,telepon
+19,コンピュータ,Konpyuuta,komputer
+19,スマホ,Sumaho,smartphone
+19,インターネット,Intaanetto,internet
+19,メール,Meeru,email
+19,ゲーム,Geemu,game
+19,写真,Shashin,foto
+19,音楽,Ongaku,musik
+19,映画,Eiga,film
+19,歌,Uta,lagu
+19,踊り,Odori,tarian
+20,仕事,Shigoto,pekerjaan
+20,会社,Kaisha,perusahaan
+20,店,Mise,toko
+20,銀行,Ginkou,bank
+20,郵便局,Yuubinkyoku,kantor pos
+20,図書館,Toshokan,perpustakaan
+20,レストラン,Resutoran,restoran
+20,ホテル,Hoteru,hotel
+20,スーパー,Suupaa,supermarket
+20,市場,Ichiba,pasar
+20,公園,Kouen,taman
+20,映画館,Eigakan,bioskop
+20,博物館,Hakubutsukan,museum
+20,動物園,Doubutsuen,kebun binatang
+21,走る,Hashiru,berlari
+21,歩く,Aruku,berjalan
+21,泳ぐ,Oyogu,berenang
+21,飛ぶ,Tobu,terbang
+21,座る,Suwaru,duduk
+21,立つ,Tatsu,berdiri
+21,寝る,Neru,tidur
+21,起きる,Okiru,bangun
+21,開ける,Akeru,membuka
+21,閉める,Shimeru,menutup
+22,買う,Kau,membeli
+22,売る,Uru,menjual
+22,作る,Tsukuru,membuat
+22,使う,Tsukau,menggunakan
+22,持つ,Motsu,membawa
+22,送る,Okuru,mengirim
+22,受ける,Ukeru,menerima
+22,教える,Oshieru,mengajar
+22,習う,Narau,belajar
+22,勉強する,Benkyou suru,belajar
+23,楽しい,Tanoshii,menyenangkan
+23,悲しい,Kanashii,sedih
+23,嬉しい,Ureshii,senang
+23,怖い,Kowai,menakutkan
+23,美しい,Utsukushii,indah
+23,面白い,Omoshiroi,menarik
+23,難しい,Muzukashii,sulit
+23,簡単,Kantan,mudah
+23,忙しい,Isogashii,sibuk
+23,暇,Hima,luang
+24,熱い,Atsui,panas
+24,寒い,Samui,dingin
+24,涼しい,Suzushii,sejuk
+24,暖かい,Atatakai,hangat
+24,強い,Tuyoi,kuat
+24,弱い,Yowai,lemah
+24,速い,Hayai,cepat
+24,遅い,Osoi,lambat
+24,重い,Omoi,berat
+24,軽い,Karui,ringan
+25,頭,Atama,kepala
+25,目,Me,mata
+25,耳,Mimi,telinga
+25,口,Kuchi,mulut
+25,鼻,Hana,hidung
+25,手,Te,tangan
+25,足,Ashi,kaki
+25,心,Kokoro,hati
+25,体,Karada,tubuh
+25,顔,Kao,wajah
+26,春休み,Haru yasumi,libur musim semi
+26,夏休み,Natsu yasumi,libur musim panas
+26,秋休み,Aki yasumi,libur musim gugur
+26,冬休み,Fuyu yasumi,libur musim dingin
+26,休日,Kyuujitsu,libur
+26,祝日,Shukujitsu,hari raya
+26,誕生日,Tanjoubi,ulang tahun
+26,結婚式,Kekkonshiki,pernikahan
+26,祭り,Matsuri,festival
+26,正月,Shougatsu,tahun baru
+27,好きな色,Suki na iro,warna favorit
+27,好きな食べ物,Suki na tabemono,makanan favorit
+27,好きな飲み物,Suki na nomimono,minuman favorit
+27,趣味,Shumi,hobi
+27,スポーツ,Supo-tsu,olahraga
+27,音楽,Ongaku,musik
+27,映画,Eiga,film
+27,旅行,Ryokou,perjalanan
+27,読書,Dokusho,membaca
+27,ゲーム,Geemu,permainan
+28,昨日の天気,Kinou no tenki,cuaca kemarin
+28,今日の天気,Kyou no tenki,cuaca hari ini
+28,明日の天気,Ashita no tenki,cuaca besok
+28,気温,Kion,suhu
+28,湿度,Shitsudo,kelembaban
+28,天気予報,Tenki yohou,ramalan cuaca
+28,台風,Taifuu,topan
+28,地震,Jishin,gempa bumi
+28,火事,Kaji,kebakaran
+28,事故,Jiko,kecelakaan
+29,医者になる,Isha ni naru,menjadi dokter
+29,先生になる,Sensei ni naru,menjadi guru
+29,会社員になる,Kaishain ni naru,menjadi pegawai
+29,エンジニアになる,Enjinia ni naru,menjadi insinyur
+29,看護師になる,Kangoshi ni naru,menjadi perawat
+29,警察官になる,Keisatsukan ni naru,menjadi polisi
+29,運転手になる,Unten-shu ni naru,menjadi sopir
+29,料理人になる,Ryourinin ni naru,menjadi koki
+29,農家になる,Nouka ni naru,menjadi petani
+29,歌手になる,Kashu ni naru,menjadi penyanyi
+30,未来,Mirai,masa depan
+30,過去,Kako,masa lalu
+30,現在,Genzai,masa kini
+30,希望,Kibou,harapan
+30,夢,Yume,mimpi
+30,目標,Mokuhyou,target
+30,計画,Keikaku,rencana
+30,成功,Seikou,sukses
+30,失敗,Shippai,kegagalan
+30,挑戦,Chousen,tantangan

@@ -1,0 +1,311 @@
+0,test,tes,tes
+1,hello,hel-lo,hallo
+1,thank you,thangk-yu,terima kasih
+1,yes,yes,ya
+1,no,no,tidak
+1,good morning,gud-mor-ning,selamat pagi
+1,good night,gud-nait,selamat malam
+1,goodbye,gud-bai,selamat tinggal
+1,sorry,sor-ri,maaf
+1,please,pliiz,tolong
+1,excuse me,eks-kyus-mi,permisi
+2,I,ai,aku
+2,you,yu,kamu
+2,he,hi,dia (laki-laki)
+2,she,shi,dia (perempuan)
+2,we,wi,kami
+2,they,dei,mereka
+2,friend,frend,teman
+2,family,fam-li,keluarga
+2,teacher,ti-cher,guru
+2,student,stu-dent,mahasiswa
+3,school,skul,sekolah
+3,classroom,klas-rum,ruang kelas
+3,book,buk,buku
+3,pen,pen,pena
+3,pencil,pen-sil,pensil
+3,desk,desk,meja
+3,chair,cher,kursi
+3,window,win-dou,jendela
+3,door,dor,pintu
+3,blackboard,blak-bord,papan tulis
+4,water,wo-ter,air
+4,fire,fai-er,api
+4,tree,tri,pohon
+4,mountain,maun-ten,gunung
+4,river,ri-ver,sungai
+4,sky,skai,langit
+4,earth,ert,bumi
+4,sea,si,laut
+4,cloud,klau-d,awan
+4,sun,san,matahari
+5,eat,iit,makan
+5,drink,dringk,minum
+5,see,si,melihat
+5,hear,hi-er,mendengar
+5,speak,spiik,berbicara
+5,read,riid,membaca
+5,write,rait,menulis
+5,go,gou,pergi
+5,come,kam,datang
+5,return,ri-turn,pulang
+6,like,laik,suka
+6,dislike,dis-laik,tidak suka
+6,big,big,besar
+6,small,smol,kecil
+6,long,long,panjang
+6,short,short,pendek
+6,new,nyu,baru
+6,old,ould,lama
+6,high,hai,tinggi
+6,cheap,chip,murah
+7,red,red,merah
+7,blue,blu,biru
+7,green,grin,hijau
+7,black,blak,hitam
+7,white,wait,putih
+7,yellow,yel-ou,kuning
+7,brown,broun,coklat
+7,purple,pur-pl,ungu
+7,gray,grei,abu-abu
+7,gold,gould,emas
+8,one,wan,satu
+8,two,tu,dua
+8,three,thri,tiga
+8,four,for,empat
+8,five,faiv,lima
+8,six,siks,enam
+8,seven,se-ven,tujuh
+8,eight,eit,delapan
+8,nine,nain,sembilan
+8,ten,ten,sepuluh
+9,hundred,han-dred,seratus
+9,thousand,thau-zand,seribu
+9,million,mil-yon,sejuta
+9,money,ma-ni,uang
+9,time,taim,waktu
+9,minute,mi-nit,menit
+9,second,se-kond,detik
+9,day,dei,hari
+9,month,manth,bulan
+9,year,yir,tahun
+10,spring,spring,musim semi
+10,summer,sum-mer,musim panas
+10,autumn,o-tam,musim gugur
+10,winter,win-ter,musim dingin
+10,weather,we-ther,cuaca
+10,rain,re-in,hujan
+10,snow,snou,salju
+10,wind,wind,angin
+10,cloudy,klau-di,berawan
+10,sunny,san-ni,cerah
+11,car,kar,mobil
+11,train,trein,kereta
+11,bus,bas,bus
+11,plane,plein,pesawat
+11,ship,ship,kapal
+11,station,stei-shon,stasiun
+11,road,roud,jalan
+11,bridge,brij,jembatan
+11,airport,air-port,bandara
+11,bike,baik,sepeda
+12,morning,mor-ning,pagi
+12,afternoon,af-ter-nun,siang
+12,night,nait,malam
+12,now,nau,sekarang
+12,yesterday,yes-ter-dei,kemarin
+12,today,tu-dei,hari ini
+12,tomorrow,to-mo-rou,besok
+12,everyday,e-vri-dei,setiap hari
+12,week,wik,minggu
+12,month,manth,bulan
+13,father,fa-ther,ayah
+13,mother,ma-ther,ibu
+13,brother,bro-ther,kakak laki-laki
+13,sister,sis-ter,kakak perempuan
+13,son,son,anak laki-laki
+13,daughter,dau-ter,anak perempuan
+13,child,chaild,anak
+13,husband,has-band,suami
+13,wife,waif,istri
+13,parent,pe-rent,orang tua
+14,dog,dog,anjing
+14,cat,kat,kucing
+14,bird,berd,burung
+14,fish,fish,ikan
+14,horse,hors,kuda
+14,cow,kau,sapi
+14,pig,pig,babi
+14,sheep,shiip,domba
+14,elephant,e-le-fant,gajah
+14,tiger,tai-ger,harimau
+15,hospital,hos-pi-tal,rumah sakit
+15,doctor,dok-ter,dokter
+15,medicine,me-di-sin,obat
+15,nurse,nurs,perawat
+15,patient,pei-shent,pasien
+15,health,helth,kesehatan
+15,fever,fi-ver,demam
+15,cough,kof,batuk
+15,head,hed,kepala
+15,body,bo-di,tubuh
+16,food,fud,makanan
+16,drink,dringk,minuman
+16,rice,rais,nasi
+16,bread,bred,roti
+16,meat,mit,daging
+16,vegetable,vej-te-bl,sayur
+16,fruit,frut,buah
+16,milk,milk,susu
+16,water,wo-ter,air
+16,tea,ti,teh
+17,breakfast,brek-fast,sarapan
+17,lunch,lanch,makan siang
+17,dinner,di-ner,makan malam
+17,snack,snak,camilan
+17,cake,keik,kue
+17,ice cream,ais-krim,es krim
+17,coffee,kof-i,kopi
+17,juice,jus,jus
+17,beer,bir,bir
+17,wine,wain,anggur
+18,house,haus,rumah
+18,room,rum,kamar
+18,kitchen,ki-chen,dapur
+18,bathroom,bath-rum,kamar mandi
+18,window,win-dou,jendela
+18,door,dor,pintu
+18,chair,cher,kursi
+18,table,tei-bl,meja
+18,bed,bed,tempat tidur
+18,tv,ti-vi,televisi
+19,computer,kom-pyu-ter,komputer
+19,phone,foun,telepon
+19,internet,in-ter-net,internet
+19,email,i-meil,email
+19,game,geim,permainan
+19,photo,fo-tou,foto
+19,music,myu-sik,musik
+19,movie,mu-vi,film
+19,song,song,lagu
+19,dance,dans,tarian
+20,work,wurk,pekerjaan
+20,company,kam-pa-ni,perusahaan
+20,shop,shop,toko
+20,bank,bank,bank
+20,post office,pos-ofis,kantor pos
+20,library,lai-bre-ri,perpustakaan
+20,restaurant,res-to-rant,restoran
+20,hotel,ho-tel,hotel
+20,market,mar-ket,pasar
+20,park,park,taman
+20,museum,myu-zi-um,museum
+20,zoo,zu,kebun binatang
+20,cinema,si-ne-ma,bioskop
+20,theater,thi-e-ter,teater
+20,stadium,stei-dium,stadion
+20,garden,gar-den,kebun
+20,office,of-is,kantor
+20,room,rum,ruangan
+20,city,si-ti,kota
+20,village,vi-lej,desa
+21,run,ran,berlari
+21,walk,wok,berjalan
+21,swim,swim,berenang
+21,fly,flai,terbang
+21,sit,sit,duduk
+21,stand,stand,berdiri
+21,sleep,sliip,tidur
+21,wake,weik,bangun
+21,open,o-pen,membuka
+21,close,kloz,menutup
+22,buy,bai,membeli
+22,sell,sel,menjual
+22,make,meik,membuat
+22,use,yus,menggunakan
+22,carry,ke-ri,membawa
+22,send,send,mengirim
+22,receive,ri-siv,menerima
+22,teach,tich,mengajar
+22,learn,lurn,belajar
+22,study,sta-di,belajar
+23,happy,hap-pi,senang
+23,sad,sad,sedih
+23,angry,ang-gri,marah
+23,afraid,a-freid,takut
+23,beautiful,byu-ti-ful,indah
+23,interesting,in-tres-ting,menarik
+23,difficult,di-fi-kalt,sulit
+23,easy,i-zi,mudah
+23,busy,bi-zi,sibuk
+23,free,fri,luang
+24,hot,hot,panas
+24,cold,kould,dingin
+24,cool,kul,sejuk
+24,warm,worm,hangat
+24,strong,strong,kuat
+24,weak,wik,lemah
+24,fast,fast,cepat
+24,slow,slo,lambat
+24,heavy,he-vi,berat
+24,light,lait,ringan
+25,head,hed,kepala
+25,eye,ai,mata
+25,ear,ir,telinga
+25,mouth,mau-th,mulut
+25,nose,nouz,hidung
+25,hand,hand,tangan
+25,foot,fut,kaki
+25,heart,hart,hati
+25,body,bo-di,tubuh
+25,face,feis,wajah
+26,holiday,ho-li-dei,liburan
+26,festival,fes-ti-val,festival
+26,birthday,berth-dei,ulang tahun
+26,wedding,we-ding,pernikahan
+26,new year,nyu-yir,tahun baru
+26,christmas,kris-mas,natal
+26,party,par-ti,pesta
+26,celebration,se-le-brei-shon,perayaan
+26,event,i-vent,acara
+26,ceremony,se-re-mo-ni,upacara
+27,favorite color,fei-vrit-ka-lor,warna favorit
+27,favorite food,fei-vrit-fud,makanan favorit
+27,favorite drink,fei-vrit-dringk,minuman favorit
+27,hobby,ho-bi,hobi
+27,sport,sport,olahraga
+27,music,myu-sik,musik
+27,movie,mu-vi,film
+27,travel,tra-vel,perjalanan
+27,reading,ri-ding,membaca
+27,gaming,gei-ming,bermain game
+28,yesterday weather,yes-ter-dei-we-ther,cuaca kemarin
+28,today weather,tu-dei-we-ther,cuaca hari ini
+28,tomorrow weather,to-mo-rou-we-ther,cuaca besok
+28,temperature,tem-pre-cher,suhu
+28,humidity,hyu-mi-di-ti,kelembaban
+28,forecast,for-kast,ramalan cuaca
+28,storm,storm,badai
+28,earthquake,ert-kweik,gempa bumi
+28,fire,fai-er,kebakaran
+28,accident,ak-si-dent,kecelakaan
+29,become doctor,bi-kam-dok-ter,menjadi dokter
+29,become teacher,bi-kam-ti-cher,menjadi guru
+29,become worker,bi-kam-wur-ker,menjadi pegawai
+29,become engineer,bi-kam-en-ji-nir,menjadi insinyur
+29,become nurse,bi-kam-nurs,menjadi perawat
+29,become police,bi-kam-po-lis,menjadi polisi
+29,become driver,bi-kam-drai-ver,menjadi sopir
+29,become cook,bi-kam-kuk,menjadi koki
+29,become farmer,bi-kam-far-mer,menjadi petani
+29,become singer,bi-kam-sing-er,menjadi penyanyi
+30,future,fyu-cher,masa depan
+30,past,past,masa lalu
+30,present,pre-zent,masa kini
+30,hope,houp,harapan
+30,dream,drim,mimpi
+30,goal,goul,target
+30,plan,plan,rencana
+30,success,sak-ses,sukses
+30,failure,fei-lyur,kegagalan
+30,challenge,cha-lenj,tantangan
