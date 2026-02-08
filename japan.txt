@@ -1,304 +1,893 @@
-1,こんにちは,Konnichiwa,halo
-1,ありがとう,Arigatou,terima kasih
-1,はい,Hai,ya
-1,いいえ,Iie,tidak
-1,おはよう,Ohayou,selamat pagi
-1,こんばんは,Konbanwa,selamat malam
-1,さようなら,Sayounara,selamat tinggal
-1,すみません,Sumimasen,maaf
-1,ごめんなさい,Gomen nasai,maafkan saya
-1,お願いします,Onegaishimasu,tolong
-2,私は,Rakushi,aku
-2,あなた,Anata,kamu
-2,彼,Kare,dia (laki-laki)
-2,彼女,Kanojo,dia (perempuan)
-2,私たち,Watashitachi,kami
-2,友達,Tomodachi,teman
-2,家族,Kazoku,keluarga
-2,先生,Sensei,guru
-2,学生,Gakusei,mahasiswa
-2,学校,Gakkou,sekolah
-3,日本,Nihon,Jepang
-3,東京,Tokyo,Tokyo
-3,大阪,Osaka,Osaka
-3,京都,Kyoto,Kyoto
-3,水,Mizu,air
-3,火,Hi,api
-3,木,Ki,pohon
-3,山,Yama,gunung
-3,川,Kawa,sungai
-3,空,Sora,langit
-4,食べる,Taberu,makan
-4,飲む,Nomu,minum
-4,見る,Miru,melihat
-4,聞く,Kiku,mendengar
-4,話す,Hanasu,berbicara
-4,読む,Yomu,membaca
-4,書く,Kaku,menulis
-4,行く,Iku,pergi
-4,来る,Kuru,datang
-4,帰る,Kaeru,pulang
-5,好き,Suki,suka
-5,嫌い,Kirai,tidak suka
-5,大きい,Ookii,besar
-5,小さい,Chiisai,kecil
-5,長い,Nagai,panjang
-5,短い,Mijikai,pendek
-5,新しい,Atarashii,baru
-5,古い,Furui,lama
-5,高い,Takai,tinggi/mahal
-5,安い,Yasui,murah
-6,赤,Aka,merah
-6,青,Ao,biru
-6,緑,Midori,hijau
-6,黒,Kuro,hitam
-6,白,Shiro,putih
-6,黄色,Kiiro,kuning
-6,茶色,Chairo,coklat
-6,紫,Murasaki,ungu
-6,灰色,Haiiro,abu-abu
-6,金色,Kiniro,emas
-7,一,Ichi,satu
-7,二,Ni,dua
-7,三,San,tiga
-7,四,Shi,empat
-7,五,Go,lima
-7,六,Roku,enam
-7,七,Nana,tujuh
-7,八,Hachi,delapan
-7,九,Kyuu,sembilan
-7,十,Juu,sepuluh
-8,百,Hyaku,seratus
-8,千,Sen,seribu
-8,万,Man,sejuta
-8,円,En,yen
-8,時,Ji,waktu/jam
-8,分,Fun,menit
-8,秒,Byou,detik
-8,日,Hi,hari
-8,月,Tsuki,bulan
-8,年,Toshi,tahun
-9,春,Haru,musim semi
-9,夏,Natsu,musim panas
-9,秋,Aki,musim gugur
-9,冬,Fuyu,musim dingin
-9,天気,Tenki,cuaca
-9,雨,Ame,hujan
-9,雪,Yuki,salju
-9,風,Kaze,angin
-9,曇り,Kumori,berawan
-9,晴れ,Hare,cerah
-10,車,Kuruma,mobil
-10,電車,Densha,kereta
-10,バス,Basu,bus
-10,飛行機,Hikouki,pesawat
-10,船,Fune,kapal
-10,駅,Eki,stasiun
-10,道,Michi,jalan
-10,橋,Hashi,jembatan
-10,空港,Kūkō,bandara
-10,自転車,Jitensha,sepeda
-11,朝,Asa,pagi
-11,昼,Hiru,siang
-11,夜,Yoru,malam
-11,今,Ima,sekarang
-11,昨日,Kinou,kemarin
-11,今日,Kyou,hari ini
-11,明日,Ashita,besok
-11,毎日,Mainichi,setiap hari
-11,週,Shuu,minggu
-11,月,Gatsu,bulan (kalender)
-12,父,Chichi,ayah
-12,母,Haha,ibu
-12,兄,Aniki,kakak laki-laki
-12,姉,Ane,kakak perempuan
-12,弟,Otouto,adik laki-laki
-12,妹,Imouto,adik perempuan
-12,子供,Kodomo,anak
-12,夫,Otto,suami
-12,妻,Tsuma,istri
-12,親,Oya,orang tua
-13,犬,Inu,anjing
-13,猫,Neko,kucing
-13,鳥,Tori,burung
-13,魚,Sakana,ikan
-13,馬,Uma,kuda
-13,牛,Ushi,sapi
-13,豚,Buta,babi
-13,羊,Hitsuji,domba
-13,象,Zou,gajah
-13,虎,Tora,harimau
-14,病院,Byouin,rumah sakit
-14,医者,Isha,dokter
-14,薬,Kusuri,obat
-14,看護師,Kangoshi,perawat
-14,患者,Kanja,pasien
-14,健康,Kenkou,kesehatan
-14,熱,Netsu,demam
-14,咳,Seki,batuk
-14,頭,Atama,kepala
-14,体,Karada,tubuh
-15,食べ物,Tabemono,makanan
-15,飲み物,Nomimono,minuman
-15,ご飯,Gohan,nasi
-15,パン,Pan,roti
-15,肉,Niku,daging
-15,魚,Sakana,ikan
-15,野菜,Yasai,sayur
-15,果物,Kudamono,buah
-15,牛乳,Gyuunyuu,susu
-15,水,Mizu,air
-16,朝ご飯,Asagohan,sarapan
-16,昼ご飯,Hirugohan,makan siang
-16,夕ご飯,Yuugohan,makan malam
-16,お菓子,Okashi,camilan
-16,ケーキ,Keeki,kue
-16,アイス,Aisu,es krim
-16,コーヒー,Koohii,kopi
-16,お茶,Ocha,teh
-16,ジュース,Jyuusu,jus
-16,ビール,Biiru,bir
-17,家,Ie,rumah
-17,部屋,Heya,kamar
-17,台所,Daidokoro,dapur
-17,風呂,Furo,kamar mandi
-17,窓,Mado,jendela
-17,ドア,Doa,pintu
-17,椅子,Isu,kursi
-17,机,Tsukue,meja
-17,ベッド,Beddo,tempat tidur
-17,テレビ,Terebi,televisi
-18,本,Hon,buku
-18,新聞,Shinbun,koran
-18,雑誌,Zasshi,majalah
-18,紙,Kami,kertas
-18,鉛筆,Enpitsu,pensil
-18,ペン,Pen,pena
-18,ノート,Nooto,buku catatan
-18,消しゴム,Keshigomu,penghapus
-18,時計,Tokei,jam
-18,電話,Denwa,telepon
-19,コンピュータ,Konpyuuta,komputer
-19,スマホ,Sumaho,smartphone
-19,インターネット,Intaanetto,internet
-19,メール,Meeru,email
-19,ゲーム,Geemu,game
-19,写真,Shashin,foto
-19,音楽,Ongaku,musik
-19,映画,Eiga,film
-19,歌,Uta,lagu
-19,踊り,Odori,tarian
-20,仕事,Shigoto,pekerjaan
-20,会社,Kaisha,perusahaan
-20,店,Mise,toko
-20,銀行,Ginkou,bank
-20,郵便局,Yuubinkyoku,kantor pos
-20,図書館,Toshokan,perpustakaan
-20,レストラン,Resutoran,restoran
-20,ホテル,Hoteru,hotel
-20,スーパー,Suupaa,supermarket
-20,市場,Ichiba,pasar
-20,公園,Kouen,taman
-20,映画館,Eigakan,bioskop
-20,博物館,Hakubutsukan,museum
-20,動物園,Doubutsuen,kebun binatang
-21,走る,Hashiru,berlari
-21,歩く,Aruku,berjalan
-21,泳ぐ,Oyogu,berenang
-21,飛ぶ,Tobu,terbang
-21,座る,Suwaru,duduk
-21,立つ,Tatsu,berdiri
-21,寝る,Neru,tidur
-21,起きる,Okiru,bangun
-21,開ける,Akeru,membuka
-21,閉める,Shimeru,menutup
-22,買う,Kau,membeli
-22,売る,Uru,menjual
-22,作る,Tsukuru,membuat
-22,使う,Tsukau,menggunakan
-22,持つ,Motsu,membawa
-22,送る,Okuru,mengirim
-22,受ける,Ukeru,menerima
-22,教える,Oshieru,mengajar
-22,習う,Narau,belajar
-22,勉強する,Benkyou suru,belajar
-23,楽しい,Tanoshii,menyenangkan
-23,悲しい,Kanashii,sedih
-23,嬉しい,Ureshii,senang
-23,怖い,Kowai,menakutkan
-23,美しい,Utsukushii,indah
-23,面白い,Omoshiroi,menarik
-23,難しい,Muzukashii,sulit
-23,簡単,Kantan,mudah
-23,忙しい,Isogashii,sibuk
-23,暇,Hima,luang
-24,熱い,Atsui,panas
-24,寒い,Samui,dingin
-24,涼しい,Suzushii,sejuk
-24,暖かい,Atatakai,hangat
-24,強い,Tuyoi,kuat
-24,弱い,Yowai,lemah
-24,速い,Hayai,cepat
-24,遅い,Osoi,lambat
-24,重い,Omoi,berat
-24,軽い,Karui,ringan
-25,頭,Atama,kepala
-25,目,Me,mata
-25,耳,Mimi,telinga
-25,口,Kuchi,mulut
-25,鼻,Hana,hidung
-25,手,Te,tangan
-25,足,Ashi,kaki
-25,心,Kokoro,hati
-25,体,Karada,tubuh
-25,顔,Kao,wajah
-26,春休み,Haru yasumi,libur musim semi
-26,夏休み,Natsu yasumi,libur musim panas
-26,秋休み,Aki yasumi,libur musim gugur
-26,冬休み,Fuyu yasumi,libur musim dingin
-26,休日,Kyuujitsu,libur
-26,祝日,Shukujitsu,hari raya
-26,誕生日,Tanjoubi,ulang tahun
-26,結婚式,Kekkonshiki,pernikahan
-26,祭り,Matsuri,festival
-26,正月,Shougatsu,tahun baru
-27,好きな色,Suki na iro,warna favorit
-27,好きな食べ物,Suki na tabemono,makanan favorit
-27,好きな飲み物,Suki na nomimono,minuman favorit
-27,趣味,Shumi,hobi
-27,スポーツ,Supo-tsu,olahraga
-27,音楽,Ongaku,musik
-27,映画,Eiga,film
-27,旅行,Ryokou,perjalanan
-27,読書,Dokusho,membaca
-27,ゲーム,Geemu,permainan
-28,昨日の天気,Kinou no tenki,cuaca kemarin
-28,今日の天気,Kyou no tenki,cuaca hari ini
-28,明日の天気,Ashita no tenki,cuaca besok
-28,気温,Kion,suhu
-28,湿度,Shitsudo,kelembaban
-28,天気予報,Tenki yohou,ramalan cuaca
-28,台風,Taifuu,topan
-28,地震,Jishin,gempa bumi
-28,火事,Kaji,kebakaran
-28,事故,Jiko,kecelakaan
-29,医者になる,Isha ni naru,menjadi dokter
-29,先生になる,Sensei ni naru,menjadi guru
-29,会社員になる,Kaishain ni naru,menjadi pegawai
-29,エンジニアになる,Enjinia ni naru,menjadi insinyur
-29,看護師になる,Kangoshi ni naru,menjadi perawat
-29,警察官になる,Keisatsukan ni naru,menjadi polisi
-29,運転手になる,Unten-shu ni naru,menjadi sopir
-29,料理人になる,Ryourinin ni naru,menjadi koki
-29,農家になる,Nouka ni naru,menjadi petani
-29,歌手になる,Kashu ni naru,menjadi penyanyi
-30,未来,Mirai,masa depan
-30,過去,Kako,masa lalu
-30,現在,Genzai,masa kini
-30,希望,Kibou,harapan
-30,夢,Yume,mimpi
-30,目標,Mokuhyou,target
-30,計画,Keikaku,rencana
-30,成功,Seikou,sukses
-30,失敗,Shippai,kegagalan
-30,挑戦,Chousen,tantangan
+0,こんにちは,Konnichiwa,halo
+0,ありがとう,Arigatou,terima kasih
+0,さようなら,Sayonara,selamat tinggal
+0,はい,Hai,ya
+0,いいえ,Iie,tidak
+0,おはよう,Ohayou,selamat pagi
+0,こんばんは,Konbanwa,selamat malam
+0,すみません,Sumimasen,maaf
+0,ごめんなさい,Gomen nasai,maafkan saya
+0,お願いします,Onegaishimasu,tolong
+1,いえ,Ie,rumah
+1,くるま,Kuruma,mobil
+1,いす,Isu,kursi
+1,テーブル,Tēburu,meja
+1,ほん,Hon,buku
+1,ペン,Pen,pulpen
+1,みず,Mizu,air
+1,ごはん,Gohan,nasi
+1,さかな,Sakana,ikan
+1,りんご,Ringo,apel
+1,バナナ,Banana,pisang
+1,みかん,Mikan,jeruk
+1,パン,Pan,roti
+1,にく,Niku,daging
+1,やさい,Yasai,sayur
+1,たまご,Tamago,telur
+1,ぎゅうにゅう,Gyuunyuu,susu
+1,おちゃ,Ocha,teh
+1,コーヒー,Kōhī,kopi
+1,ジュース,Jūsu,jus
+1,ひと,Hito,orang
+1,ともだち,Tomodachi,teman
+1,かぞく,Kazoku,keluarga
+1,おとうさん,Otousan,ayah
+1,おかあさん,Okaasan,ibu
+1,おにいさん,Oniisan,kakak laki-laki
+1,おねえさん,Oneesan,kakak perempuan
+1,こども,Kodomo,anak
+1,せんせい,Sensei,guru
+1,がくせい,Gakusei,mahasiswa
+1,ねこ,Neko,kucing
+1,いぬ,Inu,anjing
+1,とり,Tori,burung
+1,はな,Hana,bunga
+1,き,Ki,pohon
+1,やま,Yama,gunung
+1,かわ,Kawa,sungai
+1,そら,Sora,langit
+1,つき,Tsuki,bulan
+1,たいよう,Taiyou,matahari
+1,ひ,Hikari,cahaya
+1,でんき,Denki,listrik
+1,パソコン,Pasokon,komputer
+1,スマホ,Sumaho,smartphone
+1,テレビ,Terebi,televisi
+1,ラジオ,Rajio,radio
+1,かばん,Kaban,tas
+1,ふく,Fuku,pakaian
+1,くつ,Kutsu,sepatu
+1,めがね,Megane,kacamata
+1,とけい,Tokei,jam
+2,たべる,Taberu,makan
+2,のむ,Nomu,minum
+2,いく,Iku,pergi
+2,くる,Kuru,datang
+2,みる,Miru,melihat
+2,きく,Kiku,mendengar
+2,はなす,Hanasu,berbicara
+2,よむ,Yomu,membaca
+2,かく,Kaku,menulis
+2,ねる,Neru,tidur
+2,おきる,Okiru,bangun
+2,あるく,Aruku,berjalan
+2,はしる,Hashiru,berlari
+2,あそぶ,Asobu,bermain
+2,うたう,Utau,menyanyi
+2,おどる,Odoru,menari
+2,つくる,Tsukuru,membuat
+2,かう,Kau,membeli
+2,うる,Uru,menjual
+2,つかう,Tsukau,menggunakan
+2,あげる,Ageru,memberi
+2,もらう,Morau,menerima
+2,しる,Shiru,mengetahui
+2,わかる,Wakaru,mengerti
+2,おぼえる,Oboeru,mengingat
+2,わすれる,Wasureru,melupakan
+2,おしえる,Oshieru,mengajar
+2,ならう,Narau,belajar
+2,べんきょうする,Benkyou suru,belajar (formal)
+2,しごとする,Shigoto suru,bekerja
+2,やすむ,Yasumu,istirahat
+2,つかれる,Tsukareru,lelah
+2,すわる,Suwaru,duduk
+2,たつ,Tatsu,berdiri
+2,ひらく,Hiraku,membuka
+2,とじる,Tojiru,menutup
+2,あける,Akeru,membuka (pintu)
+2,しめる,Shimeru,menutup (pintu)
+2,いれる,Ireru,memasukkan
+2,だす,Dasu,mengeluarkan
+2,はいる,Hairu,masuk
+2,でる,Deru,keluar
+2,のる,Noru,naik (kendaraan)
+2,おりる,Oriru,turun (kendaraan)
+2,はじめる,Hajimeru,memulai
+2,おわる,Owaru,selesai
+2,まつ,Matsu,menunggu
+2,さがす,Sagasu,mencari
+2,みつける,Mitsukeru,menemukan
+2,つける,Tsukeru,menyalakan
+2,けす,Kesu,mematikan
+2,ひく,Hiku,menarik
+2,おす,Osu,mendorong
+2,もつ,Motsu,membawa
+2,はこぶ,Hakobu,mengangkut
+2,きる,Kiru,memotong
+2,つける,Tsukeru,memakai
+2,ぬぐ,Nugu,melepas (pakaian)
+2,あらう,Arau,mencuci
+2,そうじする,Souji suru,bersih-bersih
+2,りょうりする,Ryourisuru,memasak
+2,かたづける,Katazukeru,merapikan
+2,すむ,Sumu,tinggal
+2,ひっこす,Hikkosu,pindah rumah
+2,でんわする,Denwa suru,menelpon
+2,メールする,Mēru suru,mengirim email
+2,かんがえる,Kangaeru,berpikir
+2,しんじる,Shinjiru,percaya
+2,うたがう,Utogau,meragukan
+2,かんじる,Kanjiru,merasakan
+2,なく,Naku,menangis
+2,わらう,Warau,tertawa
+2,おこる,Okoru,marah
+2,よろこぶ,Yorokobu,senang
+2,かなしい,Kanashii,sedih
+2,こわい,Kowai,takut
+2,すき,Suki,suka
+2,きらい,Kirai,tidak suka
+2,あう,Au,bertemu
+2,わかれる,Wakareru,berpisah
+2,けっこんする,Kekkon suru,menikah
+2,りこんする,Rikon suru,cerai
+2,うまれる,Umareru,lahir
+2,しぬ,Shinu,meninggal
+2,いきる,Ikiru,hidup
+2,かえる,Kaeru,pulang
+2,とまる,Tomaru,menginap
+2,やる,Yaru,melakukan
+2,する,Suru,melakukan
+2,なる,Naru,menjadi
+2,できる,Dekiru,bisa
+2,いる,Iru,ada (makhluk hidup)
+2,ある,Aru,ada (benda mati)
+2,つづける,Tudukeru,melanjutkan
+2,やめる,Yameru,berhenti
+2,ためす,Tamesu,mencoba
+2,えらぶ,Erabu,memilih
+2,きめる,Kimeru,menentukan
+2,かんしゃする,Kansha suru,bersyukur
+2,いのる,Inoru,berdoa
+2,うける,Ukeru,menerima (ujian)
+2,こたえる,Kotaeru,menjawab
+3,おおきい,Ōkii,besar
+3,ちいさい,Chiisai,kecil
+3,ながい,Nagai,panjang
+3,みじかい,Mijikai,pendek
+3,たかい,Takai,tinggi/mahal
+3,ひくい,Hikui,rendah
+3,あつい,Atsui,panas
+3,さむい,Samui,dingin
+3,あたたかい,Atatakai,hangat
+3,すずしい,Suzushii,sejuk
+3,あかい,Akai,merah
+3,あおい,Aoi,biru
+3,しろい,Shiroi,putih
+3,くろい,Kuroi,hitam
+3,きいろい,Kiiroi,kuning
+3,みどり,Midori,hijau
+3,かわいい,Kawaii,lucu
+3,きれい,Kirei,indah/bersih
+3,きたない,Kitanai,kotor
+3,おいしい,Oishii,enak
+3,まずい,Mazui,tidak enak
+3,やさしい,Yasashii,ramah/mudah
+3,むずかしい,Muzukashii,sulit
+3,たのしい,Tanoshii,menyenangkan
+3,つまらない,Tsumaranai,membosankan
+3,はやい,Hayai,cepat
+3,おそい,Osoi,lambat
+3,つよい,Tsuyoi,kuat
+3,よわい,Yowai,lemah
+3,あぶない,Abunai,berbahaya
+3,あんぜん,Anzen,aman
+3,しずか,Shizuka,tenang
+3,うるさい,Urusai,berisik
+3,ひろい,Hiroi,luas
+3,せまい,Semai,sempit
+3,ふるい,Furui,lama/tua
+3,あたらしい,Atarashii,baru
+3,おもしろい,Omoshiroi,menarik
+3,たいせつ,Taisetsu,penting
+3,じゅうよう,Jūyō,berarti
+3,きょう,Kyō,hari ini
+3,あした,Ashita,besok
+3,きのう,Kinō,kemarin
+3,あさ,Asa,pagi
+3,ひる,Hiru,siang
+3,よる,Yoru,malam
+3,しゅう,Shū,minggu
+3,つき,Tsuki,bulan
+3,とし,Toshi,tahun
+3,いま,Ima,sekarang
+3,あとで,Atode,nanti
+3,まえ,Mae,sebelum
+3,あと,Ato,setelah
+3,いつ,Itsu,kapan
+3,はやく,Hayaku,lebih cepat
+3,おそく,Osoku,lebih lambat
+3,まいにち,Mainichi,setiap hari
+3,まいしゅう,Maishū,setiap minggu
+3,まいつき,Maitsuki,setiap bulan
+3,まいとし,Maitoshi,setiap tahun
+3,とき,Toki,waktu
+3,じかん,Jikan,jam/waktu
+3,ぶん,Bun,menit
+3,びょう,Byō,detik
+3,しゅうまつ,Shūmatsu,akhir pekan
+3,やすみ,Yasumi,libur
+3,しごと,Shigoto,kerja
+3,がっこう,Gakkō,sekolah
+3,テスト,Tesuto,ujian
+3,しけん,Shiken,ujian resmi
+3,ほんとうに,Hontōni,sungguh
+3,たぶん,Tabun,mungkin
+3,ぜったい,Zettai,pasti
+3,きっと,Kitto,pasti/semoga
+3,すぐ,Sugu,segera
+3,よく,Yoku,sering
+3,たまに,Tamani,kadang-kadang
+3,いつも,Itsumo,selalu
+3,ぜんぜん,Zenzen,sama sekali tidak
+3,まったく,Mattaku,benar-benar
+3,もっと,Motto,lebih
+3,すこし,Sukoshi,sedikit
+3,たくさん,Takusan,banyak
+3,いちばん,Ichiban,terbaik/nomor satu
+3,さいごに,Saigo ni,akhirnya
+3,さいしょに,Saisho ni,pertama kali
+3,また,Mata,lagi
+3,もう,Mō,sudah
+3,まだ,Mada,belum
+3,けっこう,Kekkō,cukup
+3,だいたい,Daitai,kira-kira
+3,ちょっと,Chotto,sebentar/sedikit
+3,すごく,Sugoku,sangat
+3,とても,Totemo,sangat
+3,かなり,Kanari,cukup
+3,ひじょうに,Hijōni,sangat sekali
+3,いっしょに,Issho ni,bersama
+3,べつに,Betsuni,tidak terlalu
+3,もちろん,Mochiron,tentu saja
+3,たしかに,Tashika ni,memang benar
+3,おそらく,Osoraku,barangkali
+3,いろいろ,Iroiro,berbagai macam
+3,じつは,Jitsu wa,sebenarnya
+3,なぜ,Naze,mengapa
+3,どうして,Dōshite,kenapa
+3,だから,Dakara,oleh karena itu
+3,しかし,Shikashi,namun
+3,それから,Sorekara,setelah itu
+3,そして,Soshite,lalu
+3,それに,Soreni,selain itu
+3,きょうしつ,Kyōshitsu,ruang kelas
+3,せんせい,Sensei,guru
+3,がくせい,Gakusei,mahasiswa
+3,こうこう,Kōkō,sekolah menengah
+3,だいがく,Daigaku,universitas
+3,べんきょう,Benkyō,belajar
+3,ほん,Hon,buku
+3,ノート,Nōto,catatan
+3,えんぴつ,Enpitsu,pensil
+3,けしごむ,Keshigomu,penghapus
+3,じしょ,Jisho,kamus
+3,かいしゃ,Kaisha,perusahaan
+3,かいぎ,Kaigi,rapat
+3,しごと,Shigoto,pekerjaan
+3,じむしつ,Jimushitsu,ruang kantor
+3,でんしゃ,Densha,kereta
+3,バス,Basu,bus
+3,タクシー,Takushī,taksi
+3,ひこうき,Hikōki,pesawat
+3,えき,Eki,stasiun
+3,くうこう,Kūkō,bandara
+3,ちかてつ,Chikatetsu,kereta bawah tanah
+3,じてんしゃ,Jitensha,sepeda
+3,きっぷ,Kippu,tiket
+3,かさ,Kasa,payung
+3,あめ,Ame,hujan
+3,ゆき,Yuki,salju
+3,かぜ,Kaze,angin
+3,てんき,Tenki,cuaca
+3,はる,Haru,musim semi
+3,なつ,Natsu,musim panas
+3,あき,Aki,musim gugur
+3,ふゆ,Fuyu,musim dingin
+3,うみ,Umi,laut
+3,やま,Yama,gunung
+3,かわ,Kawa,sungai
+3,もり,Mori,hutan
+3,いえ,Ie,rumah
+3,へや,Heya,kamar
+3,まど,Mado,jendela
+3,ドア,Doa,pintu
+3,ベッド,Beddo,tempat tidur
+3,いす,Isu,kursi
+3,テーブル,Tēburu,meja
+3,ソファ,Sofa,sofa
+3,テレビ,Terebi,televisi
+3,ラジオ,Rajio,radio
+3,パソコン,Pasokon,komputer
+3,スマホ,Sumaho,smartphone
+3,でんき,Denki,listrik
+3,ガス,Gasu,gas
+3,みず,Mizu,air
+3,トイレ,Toire,kamar mandi
+3,おふろ,Ofuro,mandi
+3,キッチン,Kicchin,dapur
+3,れいぞうこ,Reizōko,kulkas
+3,でんわ,Denwa,telepon
+3,かがみ,Kagami,cermin
+3,ベランダ,Beranda,beranda
+3,にわ,Niwa,taman
+3,いえ,Ie,rumah
+3,まち,Machi,kota
+3,みせ,Mise,toko
+3,レストラン,Resutoran,restoran
+3,スーパー,Sūpā,supermarket
+3,コンビニ,Konbini,mini market
+3,びょういん,Byōin,rumah sakit
+3,くすりや,Kusuriya,apotek
+3,ぎんこう,Ginkō,bank
+3,ゆうびんきょく,Yūbinkyoku,kantor pos
+3,ホテル,Hoteru,hotel
+3,きっさてん,Kissaten,kedai kopi
+3,えいが,Eiga,film
+3,えいがかん,Eigakan,bioskop
+3,ほんや,Honya,toko buku
+3,しょてん,Shoten,toko buku
+3,スポーツ,Supōtsu,olahraga
+3,サッカー,Sakkā,sepak bola
+3,やきゅう,Yakyū,baseball
+3,テニス,Tenisu,tenis
+3,バスケット,Basuketto,basket
+3,ジョギング,Jogingu,jogging
+3,うんどう,Undō,olahraga/latihan
+3,からだ,Karada,tubuh
+3,あたま,Atama,kepala
+3,かお,Kao,wajah
+3,め,Me,mata
+3,みみ,Mimi,telinga
+3,はな,Hana,hidung
+3,くち,Kuchi,mulut
+3,は,Ha,gigi
+3,て,Te,tangan
+3,あし,Ashi,kaki
+3,こころ,Kokoro,hati/perasaan
+3,けんこう,Kenkō,kesehatan
+3,びょうき,Byōki,penyakit
+3,くすり,Kusuri,obat
+3,いしゃ,Isha,dokter
+3,かんごし,Kangoshi,perawat
+3,かぜ,Kaze,flu
+3,ねつ,Netsu,demam
+3,いたみ,Itami,nyeri
+3,しんさつ,Shinsatsu,pemeriksaan
+3,しりょう,Shiryō,dokumen
+3,ニュース,Nyūsu,berita
+3,しんぶん,Shinbun,koran
+3,ざっし,Zasshi,majalah
+3,テレビ,Terebi,televisi
+3,ラジオ,Rajio,radio
+3,インターネット,Intānetto,internet
+3,メール,Mēru,email
+3,メッセージ,Messeji,pesan
+3,ゲーム,Gēmu,permainan
+3,おんがく,Ongaku,musik
+3,うた,Uta,lagu
+3,ダンス,Dansu,tarian
+3,え,E,picture/lukisan
+3,アート,Āto,seni
+3,ぶんがく,Bungaku,sastra
+3,しぜん,Shizen,alam
+3,どうぶつ,Dōbutsu,hewan
+3,しょくぶつ,Shokubutsu,tumbuhan
+3,くだもの,Kudamono,buah
+3,やさい,Yasai,sayuran
+3,にく,Niku,daging
+3,さかな,Sakana,ikan
+3,パン,Pan,roti
+3,ごはん,Gohan,nasi
+3,みず,Mizu,air
+3,ジュース,Jūsu,jus
+3,コーヒー,Kōhī,kopi
+3,おちゃ,Ocha,teh
+3,ワイン,Wain,anggur
+3,ビール,Bīru,bir
+3,しょくじ,Shokuji,makan
+3,レシピ,Reshipi,resep
+3,りょうり,Ryōri,masakan
+3,あじ,Aji,rasa
+3,あまい,Amai,manis
+3,しょっぱい,Shoppai,asin
+3,にがい,Nigai,pahit
+3,すっぱい,Suppai,asam
+3,からい,Karai,pedas
+3,うまい,Umaii,enak/lezat
+4,がっこう,Gakkō,sekolah
+4,こうこう,Kōkō,sekolah menengah
+4,だいがく,Daigaku,universitas
+4,せんせい,Sensei,guru
+4,がくせい,Gakusei,mahasiswa
+4,じゅぎょう,Jugyō,pelajaran
+4,きょうしつ,Kyōshitsu,ruang kelas
+4,しけん,Shiken,ujian
+4,テスト,Tesuto,tes
+4,ノート,Nōto,catatan
+4,えんぴつ,Enpitsu,pensil
+4,ペン,Pen,pulpen
+4,けしごむ,Keshigomu,penghapus
+4,じしょ,Jisho,kamus
+4,ほん,Hon,buku
+4,ぶんしょう,Bunshō,kalimat
+4,もんだい,Mondai,soal
+4,こたえ,Kotae,jawaban
+4,れんしゅう,Renshū,latihan
+4,べんきょう,Benkyō,belajar
+4,せいせき,Seiseki,nilai
+4,きょうか,Kyōka,mata pelajaran
+4,すうがく,Sūgaku,matematika
+4,えいご,Eigo,bahasa Inggris
+4,にほんご,Nihongo,bahasa Jepang
+4,かがく,Kagaku,ilmu pengetahuan
+4,れきし,Rekishi,sejarah
+4,ちり,Chiri,geografi
+4,しんりがく,Shinrigaku,psikologi
+4,けいざい,Keizai,ekonomi
+4,ほうりつ,Hōritsu,hukum
+4,せんもん,Senmon,keahlian
+4,けんきゅう,Kenkyū,penelitian
+4,レポート,Repōto,laporan
+4,しゅくだい,Shukudai,PR
+4,プロジェクト,Purojekuto,proyek
+4,グループ,Gurūpu,kelompok
+4,プレゼンテーション,Purezenteshon,presentasi
+4,かいぎ,Kaigi,rapat
+4,じゅんび,Junbi,persiapan
+4,はっぴょう,Happyou,presentasi/laporan
+4,しつもん,Shitsumon,pertanyaan
+4,こたえる,Kotaeru,menjawab
+4,せつめい,Setsumei,penjelasan
+4,りかい,Rikai,pemahaman
+4,しんせい,Shinsei,permohonan
+4,もうしこみ,Mōshikomi,pendaftaran
+4,きょういく,Kyōiku,pendidikan
+4,がくもん,Gakumon,ilmu pengetahuan
+4,しんがく,Shingaku,lanjut sekolah
+4,そつぎょう,Sotsugyō,kelulusan
+4,しけんかん,Shikenkan,ruang ujian
+4,じゅけん,Juken,mengikuti ujian
+4,じゅけんせい,Jukensei,peserta ujian
+4,こうし,Kōshi,dosen
+4,だいがくいん,Daigakuin,pascasarjana
+4,けんきゅうしつ,Kenkyūshitsu,lab penelitian
+4,がくぶ,Gakubu,fakultas
+4,がくい,Gakui,gelar akademik
+4,しごと,Shigoto,pekerjaan
+4,かいしゃ,Kaisha,perusahaan
+4,じむしつ,Jimushitsu,ruang kantor
+4,かいぎ,Kaigi,rapat
+4,ぶちょう,Buchō,kepala divisi
+4,かちょう,Kachō,manajer
+4,しゃちょう,Shachō,presiden direktur
+4,じょうし,Jōshi,atasan
+4,ぶか,Buka,bawahan
+4,どうりょう,Dōryō,rekan kerja
+4,せいしゃいん,Seishain,karyawan tetap
+4,アルバイト,Arubaito,pekerja paruh waktu
+4,パート,Pāto,pekerja paruh waktu
+4,しゅうしょく,Shūshoku,mendapat pekerjaan
+4,てんしょく,Tenshoku,pindah kerja
+4,やめる,Yameru,berhenti kerja
+4,きゅうりょう,Kyūryō,gaji
+4,ボーナス,Bōnasu,bonus
+4,しんせい,Shinsei,permohonan
+4,もうしこみ,Mōshikomi,pendaftaran
+4,けいやく,Keiyaku,kontrak
+4,やくそく,Yakusoku,janji
+4,しごとば,Shigotoba,tempat kerja
+4,オフィス,Ofisu,kantor
+4,デスク,Desuku,meja kerja
+4,パソコン,Pasokon,komputer
+4,プリンター,Purintā,printer
+4,コピー機,Kopīki,mesin fotokopi
+4,ファックス,Fakkusu,fax
+4,メール,Mēru,email
+4,メッセージ,Messeji,pesan
+4,でんわ,Denwa,telepon
+4,スマホ,Sumaho,smartphone
+4,かいぎしつ,Kaigishitsu,ruang rapat
+4,しりょう,Shiryō,dokumen
+4,ファイル,Fairu,file
+4,データ,Dēta,data
+4,じょうほう,Jōhō,informasi
+4,レポート,Repōto,laporan
+4,プレゼン,Purezen,presentasi
+4,しゅっちょう,Shucchō,dinas luar
+4,きんむ,Kinmu,tugas kerja
+4,しゅっきん,Shukkin,masuk kerja
+4,たいきん,Taikin,pulang kerja
+4,ざんぎょう,Zangyō,lembur
+4,やすみ,Yasumi,libur
+4,きゅうけい,Kyūkei,istirahat
+4,しごとちゅう,Shigotochū,sedang bekerja
+4,しごとおわり,Shigoto owari,selesai kerja
+4,しごとをはじめる,Shigoto o hajimeru,memulai kerja
+4,しごとをやめる,Shigoto o yameru,berhenti kerja
+4,しごとをさがす,Shigoto o sagasu,mencari kerja
+4,しごとをみつける,Shigoto o mitsukeru,menemukan kerja
+4,しごとをうける,Shigoto o ukeru,menerima kerja
+4,しごとをだす,Shigoto o dasu,memberikan kerja
+4,しごとをする,Shigoto o suru,bekerja
+4,しごとにいく,Shigoto ni iku,pergi kerja
+4,でんしゃ,Densha,kereta
+4,バス,Basu,bus
+4,タクシー,Takushī,taksi
+4,ひこうき,Hikōki,pesawat
+4,ふね,Fune,kapal
+4,じてんしゃ,Jitensha,sepeda
+4,バイク,Baiku,motor
+4,くるま,Kuruma,mobil
+4,トラック,Torakku,truk
+4,ちかてつ,Chikatetsu,kereta bawah tanah
+4,しんかんせん,Shinkansen,kereta cepat
+4,えき,Eki,stasiun
+4,くうこう,Kūkō,bandara
+4,みち,Michi,jalan
+4,こうさてん,Kōsaten,persimpangan
+4,しんごう,Shingō,lampu lalu lintas
+4,きっぷ,Kippu,tiket
+4,うんてん,Unten,mengemudi
+4,うんてんしゅ,Unten-shu,supir
+4,こうつう,Kōtsū,transportasi
+4,じこ,Jiko,kecelakaan
+4,スピード,Supīdo,kecepatan
+4,ブレーキ,Burēki,rem
+4,ガソリン,Gasorin,bensin
+4,パーキング,Pākingu,tempat parkir
+4,ちゅうしゃじょう,Chūshajō,tempat parkir
+4,バスてい,Basutei,halte bus
+4,ホーム,Hōmu,peron
+4,きっさてん,Kissaten,kedai kopi
+4,ターミナル,Tāminaru,terminal
+4,チケット,Chiketto,tiket
+4,チェックイン,Chekkuin,check-in
+4,パスポート,Pasupōto,paspor
+4,ビザ,Biza,visa
+4,りょこう,Ryokō,perjalanan
+4,ツアー,Tsūā,tur
+4,ガイド,Gaido,pemandu
+4,ホテル,Hoteru,hotel
+4,りょかん,Ryokan,penginapan tradisional
+4,よやく,Yoyaku,reservasi
+4,しゅっぱつ,Shuppatsu,keberangkatan
+4,とうちゃく,Tōchaku,kedatangan
+4,フライト,Furaito,penerbangan
+4,ゲート,Gēto,gerbang
+4,ラウンジ,Raunji,ruang tunggu
+4,スーツケース,Sūtsukēsu,koper
+4,バッグ,Baggu,tas
+4,しょくじ,Shokuji,makan
+4,おみやげ,Omiyage,cendera mata
+4,マップ,Mappu,peta
+4,ガイドブック,Gaido bukku,buku panduan
+4,カメラ,Kamera,kamera
+4,しゃしん,Shashin,foto
+4,ビデオ,Bideo,video
+4,インターネット,Intānetto,internet
+4,アプリ,Apuri,aplikasi
+4,ナビ,Nabi,navigasi
+4,しんせん,Shinsen,segar
+4,けいかく,Keikaku,rencana
+4,てんき,Tenki,cuaca
+4,あめ,Ame,hujan
+4,ゆき,Yuki,salju
+4,かぜ,Kaze,angin
+4,たいよう,Taiyō,matahari
+4,つき,Tsuki,bulan
+4,ほし,Hoshi,bintang
+4,そら,Sora,langit
+4,くも,Kumo,awan
+4,あつい,Atsui,panas
+4,さむい,Samui,dingin
+4,すずしい,Suzushii,sejuk
+4,あたたかい,Atatakai,hangat
+4,しつど,Shitsudo,kelembaban
+4,きおん,Kion,suhu
+4,きせつ,Kisetsu,musim
+4,はる,Haru,musim semi
+4,なつ,Natsu,musim panas
+4,あき,Aki,musim gugur
+4,ふゆ,Fuyu,musim dingin
+4,うみ,Umi,laut
+4,やま,Yama,gunung
+4,かわ,Kawa,sungai
+4,もり,Mori,hutan
+4,いけ,Ike,kolam
+4,しぜん,Shizen,alam
+4,ちきゅう,Chikyū,bumi
+4,たいようこう,Taiyōkō,sinar matahari
+4,つなみ,Tsunami,tsunami
+4,じしん,Jishin,gempa bumi
+4,かざん,Kazan,gunung berapi
+4,こうざん,Kōzan,pertambangan
+4,しょくぶつ,Shokubutsu,tumbuhan
+4,どうぶつ,Dōbutsu,hewan
+4,とり,Tori,burung
+4,さかな,Sakana,ikan
+4,ねこ,Neko,kucing
+4,いぬ,Inu,anjing
+4,うし,Ushi,sapi
+4,うま,Uma,kuda
+4,ぶた,Buta,babi
+4,ひつじ,Hitsuji,domba
+4,にわとり,Niwa tori,ayam
+4,ぞう,Zō,gajah
+4,きりん,Kirīn,jerapah
+4,ライオン,Raiyon,singa
+4,トラ,Tora,harimau
+4,くま,Kuma,beruang
+4,さる,Saru,monyet
+4,へび,Hebi,ular
+4,かめ,Kame,kura-kura
+4,カエル,Kaeru,kodok
+4,むし,Mushi,serangga
+4,はな,Hana,bunga
+4,き,Ki,pohon
+4,はっぱ,Happa,daun
+4,みず,Mizu,air
+4,いわ,Iwa,batu
+4,すな,Suna,pasir
+4,つち,Tsuchi,tanah
+4,いえ,Ie,rumah
+4,へや,Heya,kamar
+4,まど,Mado,jendela
+4,ドア,Doa,pintu
+4,ベッド,Beddo,tempat tidur
+4,いす,Isu,kursi
+4,テーブル,Tēburu,meja
+4,ソファ,Sofa,sofa
+4,テレビ,Terebi,televisi
+4,ラジオ,Rajio,radio
+4,パソコン,Pasokon,komputer
+4,スマホ,Sumaho,smartphone
+4,でんき,Denki,listrik
+4,ガス,Gasu,gas
+4,みず,Mizu,air
+4,トイレ,Toire,kamar mandi
+4,おふろ,Ofuro,mandi
+4,キッチン,Kicchin,dapur
+4,れいぞうこ,Reizōko,kulkas
+4,かがみ,Kagami,cermin
+4,ベランダ,Beranda,beranda
+4,にわ,Niwa,taman
+4,かばん,Kaban,tas
+4,ふく,Fuku,pakaian
+4,くつ,Kutsu,sepatu
+4,めがね,Megane,kacamata
+4,とけい,Tokei,jam
+4,しょくじ,Shokuji,makan
+4,あさごはん,Asagohan,sarapan
+4,ひるごはん,Hirugohan,makan siang
+4,ばんごはん,Bangohan,makan malam
+4,おやつ,O-yatsu,camilan
+4,りょうり,Ryōri,masakan
+4,レシピ,Reshipi,resep
+4,あじ,Aji,rasa
+4,あまい,Amai,manis
+4,しょっぱい,Shoppai,asin
+4,にがい,Nigai,pahit
+4,すっぱい,Suppai,asam
+4,からい,Karai,pedas
+4,うまい,Umaii,enak/lezat
+4,スーパー,Sūpā,supermarket
+4,コンビニ,Konbini,mini market
+4,みせ,Mise,toko
+4,レストラン,Resutoran,restoran
+4,カフェ,Kafe,kafe
+4,おみやげ,Omiyage,cendera mata
+4,かいもの,Kaimono,belanja
+4,しなもの,Shinamono,barang
+4,ねだん,Nedan,harga
+4,やすい,Yasui,murah
+4,たかい,Takai,mahal
+4,かう,Kau,membeli
+4,うる,Uru,menjual
+4,レジ,Reji,kasir
+4,おかね,Okane,uang
+4,きんこう,Ginkō,bank
+4,カード,Kādo,kartu
+4,クレジットカード,Kurejitto kādo,kartu kredit
+4,キャッシュ,Kyasshu,tunai
+4,さいふ,Saifu,dompet
+4,こうつうカード,Kōtsū kādo,kartu transportasi
+4,きっぷ,Kippu,tiket
+4,しんぶん,Shinbun,koran
+4,ざっし,Zasshi,majalah
+4,ほん,Hon,buku
+4,えいが,Eiga,film
+4,えいがかん,Eigakan,bioskop
+4,テレビ,Terebi,televisi
+4,ラジオ,Rajio,radio
+4,ニュース,Nyūsu,berita
+4,インターネット,Intānetto,internet
+4,ゲーム,Gēmu,permainan
+4,おんがく,Ongaku,musik
+4,うた,Uta,lagu
+4,ダンス,Dansu,tarian
+4,スポーツ,Supōtsu,olahraga
+4,サッカー,Sakkā,sepak bola
+4,やきゅう,Yakyū,baseball
+4,テニス,Tenisu,tenis
+4,バスケット,Basuketto,basket
+4,ジョギング,Jogingu,jogging
+4,うんどう,Undō,latihan
+4,からだ,Karada,tubuh
+4,けんこう,Kenkō,kesehatan
+4,びょうき,Byōki,penyakit
+4,くすり,Kusuri,obat
+4,いしゃ,Isha,dokter
+4,かんごし,Kangoshi,perawat
+4,びょういん,Byōin,rumah sakit
+4,しんさつ,Shinsatsu,pemeriksaan
+4,ねつ,Netsu,demam
+4,いたみ,Itami,nyeri
+4,かぜ,Kaze,flu
+4,しんぱい,Shinpai,khawatir
+4,あんしん,Anshin,tenang
+4,うれしい,Ureshii,senang
+4,かなしい,Kanashii,sedih
+4,こわい,Kowai,takut
+4,おこる,Okoru,marah
+4,わらう,Warau,tertawa
+4,なく,Naku,menangis
+4,ねる,Neru,tidur
+4,おきる,Okiru,bangun
+4,はたらく,Hataraku,bekerja
+4,やすむ,Yasumu,istirahat
+4,まち,Machi,kota
+4,むら,Mura,desa
+4,とし,Toshi,kota besar
+4,きょうと,Kyōto,Kyoto
+4,とうきょう,Tōkyō,Tokyo
+4,おおさか,Ōsaka,Osaka
+4,ひろしま,Hiroshima,Hiroshima
+4,なごや,Nagoya,Nagoya
+4,にほん,Nihon,Jepang
+4,アジア,Ajia,Asia
+4,ヨーロッパ,Yōroppa,Eropa
+4,アメリカ,Amerika,Amerika
+4,オーストラリア,Ōsutoraria,Australia
+4,アフリカ,Afurika,Afrika
+4,せかい,Sekai,dunia
+4,ちず,Chizu,peta
+4,くに,Kuni,negara
+4,しゅと,Shuto,ibu kota
+4,しゅう,Shū,provinsi
+4,まち,Machi,kota
+4,みち,Michi,jalan
+4,こうさてん,Kōsaten,persimpangan
+4,しんごう,Shingō,lampu lalu lintas
+4,バスてい,Basutei,halte bus
+4,えき,Eki,stasiun
+4,くうこう,Kūkō,bandara
+4,ホテル,Hoteru,hotel
+4,レストラン,Resutoran,restoran
+4,カフェ,Kafe,kafe
+4,スーパー,Sūpā,supermarket
+4,コンビニ,Konbini,mini market
+4,みせ,Mise,toko
+4,デパート,Depāto,department store
+4,しょくどう,Shokudō,ruang makan
+4,きっさてん,Kissaten,kedai kopi
+4,おてら,Otera,kuil
+4,じんじゃ,Jinja,kuil Shinto
+4,きょうかい,Kyōkai,gereja
+4,モスク,Mosuku,masjid
+4,びじゅつかん,Bijutsukan,museum seni
+4,はくぶつかん,Hakubutsukan,museum
+4,どうぶつえん,Dōbutsuen,kebun binatang
+4,すいぞくかん,Suizokukan,aquarium
+4,こうえん,Kōen,taman
+4,しやくしょ,Shiyakusho,kantor kota
+4,けいさつしょ,Keisatsusho,kantor polisi
+4,しょうぼうしょ,Shōbōsho,kantor pemadam
+4,ゆうびんきょく,Yūbinkyoku,kantor pos
+4,ぎんこう,Ginkō,bank
+4,としょかん,Toshokan,perpustakaan
+4,びょういん,Byōin,rumah sakit
+4,くすりや,Kusuriya,apotek
+4,しょくば,Shokuba,tempat kerja
+4,じむしつ,Jimushitsu,ruang kantor
+4,かいぎしつ,Kaigishitsu,ruang rapat
+4,きょうしつ,Kyōshitsu,ruang kelas
+4,こうえん,Kōen,taman
+4,にわ,Niwa,taman rumah
+5,しんかんせん,Shinkansen,kereta cepat
+5,ちかてつ,Chikatetsu,kereta bawah tanah
+5,バスてい,Basutei,halte bus
+5,ホーム,Hōmu,peron
+5,きっぷ,Kippu,tiket
+5,じょうしゃ,Jōsha,naik kendaraan
+5,げしゃ,Gesha,turun kendaraan
+5,うんてん,Unten,mengemudi
+5,うんてんしゅ,Unten-shu,supir
+5,こうつう,Kōtsū,transportasi
+5,じこ,Jiko,kecelakaan
+5,スピード,Supīdo,kecepatan
+5,ブレーキ,Burēki,rem
+5,ガソリン,Gasorin,bensin
+5,ちゅうしゃじょう,Chūshajō,tempat parkir
+5,ターミナル,Tāminaru,terminal
+5,チェックイン,Chekkuin,check-in
+5,パスポート,Pasupōto,paspor
+5,ビザ,Biza,visa
+5,りょこう,Ryokō,perjalanan
+5,ツアー,Tsūā,tur
+5,ガイド,Gaido,pemandu
+5,ホテル,Hoteru,hotel
+5,りょかん,Ryokan,penginapan tradisional
+5,よやく,Yoyaku,reservasi
+5,しゅっぱつ,Shuppatsu,keberangkatan
+5,とうちゃく,Tōchaku,kedatangan
+5,フライト,Furaito,penerbangan
+5,ゲート,Gēto,gerbang
+5,ラウンジ,Raunji,ruang tunggu
+5,スーツケース,Sūtsukēsu,koper
+5,バッグ,Baggu,tas
+5,マップ,Mappu,peta
+5,ガイドブック,Gaido bukku,buku panduan
+5,カメラ,Kamera,kamera
+5,しゃしん,Shashin,foto
+5,ビデオ,Bideo,video
+5,インターネット,Intānetto,internet
+5,アプリ,Apuri,aplikasi
+5,ナビ,Nabi,navigasi
+5,けいかく,Keikaku,rencana
+5,こうそくどうろ,Kōsoku dōro,jalan tol
+5,しゅうてん,Shūten,halte terakhir
+5,のりかえ,Norikae,transit
+5,こうくう,Kōkū,penerbangan
+5,ふなびん,Funabin,pengiriman laut
+5,くうびん,Kūbin,pengiriman udara
+5,ゆそう,Yusō,logistik
+5,こうつうじこ,Kōtsū jiko,kecelakaan lalu lintas
+5,シートベルト,Shīto beruto,sabuk pengaman
+5,ヘルメット,Herumetto,helm
+5,じゅうたい,Jūtai,macet
+5,こうさてん,Kōsaten,persimpangan
+5,しんごう,Shingō,lampu lalu lintas
+5,こうつうあんぜん,Kōtsū anzen,keselamatan lalu lintas
+5,こうつうしゅだん,Kōtsū shudan,sarana transportasi
+5,こうつうもう,Kōtsū mō,jaringan transportasi
+5,こうつうきかん,Kōtsū kikan,instansi transportasi
+5,こうつうひ,Kōtsū hi,biaya transportasi
+5,こうつうけいかく,Kōtsū keikaku,rencana transportasi
+5,こうつうシステム,Kōtsū shisutemu,sistem transportasi
+5,こうつうサービス,Kōtsū sābisu,layanan transportasi
+5,こうつうネットワーク,Kōtsū nettowāku,jaringan transportasi
+5,こうつうセンター,Kōtsū sentā,pusat transportasi
+5,こうつうインフラ,Kōtsū infura,infrastruktur transportasi
+5,こうつうルート,Kōtsū rūto,rute transportasi
+5,こうつうマップ,Kōtsū mappu,peta transportasi
+5,こうつうガイド,Kōtsū gaido,panduan transportasi
+5,こうつうアプリ,Kōtsū apuri,aplikasi transportasi
+5,はれ,Hare,cerah
+5,くもり,Kumori,berawan
+5,あめ,Ame,hujan
+5,ゆき,Yuki,salju
+5,かぜ,Kaze,angin
+5,たいふう,Taifū,topan
+5,あらし,Arashi,badai
+5,しっけ,Shikke,kelembab
